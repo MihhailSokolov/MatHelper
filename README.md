@@ -1,5 +1,5 @@
 # MatHelper
-Visual Basic.NET Desktop application developed in 8th grade as a school project for converting different measurement units into another
+Visual Basic.NET Desktop application developed in 8th grade as a school project for converting different measurement units
  ## How to run
  - Open `MatHelper.sln` in your Visual Studio and press `Start` button
  - Or go to MatHelper/obj/Debug and run `MatHelper.exe`
